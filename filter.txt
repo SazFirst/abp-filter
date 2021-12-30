@@ -1,3 +1,4 @@
+[Adblock Plus 3.11]
 ! baeldung.com
 ! 2021-12-31
 baeldung.com##.up-show
